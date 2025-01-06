@@ -1,5 +1,6 @@
-<<<<<<< HEAD
+
 abcd test from loc
-=======
+
 abcd test form
->>>>>>> e8b8bc0a9303863a31bb990f8b259b56aa098cc2
+
+final commint
